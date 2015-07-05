@@ -16,3 +16,6 @@ script: ./gradlew clean assemble check
 branches:
     only:
         - soundboardStructure
+
+notifications:
+  email: false
