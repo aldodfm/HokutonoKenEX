@@ -7,8 +7,26 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-
     <string name="action_example">Example action</string>
-
     <string name="action_settings">Settings</string>
+
+
+    <!-- Names -->
+    <string name="ex_sound"></string>
+    <string name="title_kenshiro">Kenshirō</string>
+    <string name="title_raoh">Raō</string>
+    <string name="title_rei">Rei</string>
+    <string name="title_shin">Shin</string>
+    <string name="title_jagi">Jagi</string>
+    <string name="title_toki">Toki</string>
+    <string name="title_heart">Mr. Heart</string>
+    <string name="title_juda">Juda</string>
+    <string name="title_souther">Shouter</string>
+    <string name="title_mamiya">Mamiya</string>
+    <string name="share_audio">Share</string>
+    <string name="add_audio">Add Ringtone</string>
+
+    <string name="press_to_exit">Press again to exit.</string>
+    <string name="drawer_open">THE TIME OF RETRIBUTION</string>
+    <string name="drawer_close">DECIDE THE DESTINY</string>
 </resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">北斗の拳 EX</string>
+
+
+    <!-- Names -->
+    <string name="ex_sound"></string>
+    <string name="title_kenshiro">ケンシロウ</string>
+    <string name="title_raoh">ラオウ</string>
+    <string name="title_rei">レイ</string>
+    <string name="title_shin">シン</string>
+    <string name="title_jagi">ジャギ</string>
+    <string name="title_toki">トキ</string>
+    <string name="title_heart">ハート様</string>
+    <string name="title_juda">ユダ</string>
+    <string name="title_souther">サウザ</string>
+    <string name="title_mamiya">マミヤ</string>
+
+
+    <string name="share_audio"></string>
+    <string name="add_audio"></string>
+    <string name="press_to_exit">終了するには、もう一度押します。</string>
+</resources>
